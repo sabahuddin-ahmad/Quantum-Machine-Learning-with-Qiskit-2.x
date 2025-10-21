@@ -1,0 +1,16 @@
+# Quantum Computing stack
+qiskit
+qiskit-aer
+qiskit-ibm-runtime
+
+# Plotting and visualization
+matplotlib
+
+# Data manipulation
+pandas
+
+# Machine Learning libraries
+scikit-learn
+
+# LaTeX rendering for Matplotlib labels and Qiskit visualizations
+pylatexenc
